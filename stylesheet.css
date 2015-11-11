@@ -1,3 +1,12 @@
 body {
 	background-color: #2692C1;
+	height: 100%;
 }
+
+.bcg {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/5b/8a/da/5b8ada6a155f4d4865b9c77bc0f8250c.jpg");
+	background-size: cover;
+	background-position: center center;
+	display: flex;
+}
+
