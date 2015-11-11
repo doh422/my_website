@@ -1,12 +1,15 @@
 body {
-	background-color: #2692C1;
+	/*background-color: #2692C1;*/
 	height: 100%;
+	background-image: url("assets/light-gray-gradient.jpg");
+	background-size: cover;
+	background-position: center;
 }
 
 .bcg {
-	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/5b/8a/da/5b8ada6a155f4d4865b9c77bc0f8250c.jpg");
-	background-size: cover;
+	background-image: url("http://orig06.deviantart.net/0fca/f/2015/018/0/8/abstract_black_white_line_creative_creative_backgr_by_b17bawmber-d8eenm8.jpg");
 	background-position: center center;
-	display: flex;
+	
+	
 }
 
