@@ -1,15 +1,25 @@
 body {
 	/*background-color: #2692C1;*/
 	height: 100%;
-	background-image: url("assets/light-gray-gradient.jpg");
+	background-image: url("http://www.titanui.com/wp-content/uploads/2013/03/25/Simple-Light-Vector-Presentation-Shelf-01.jpg");
 	background-size: cover;
 	background-position: center;
 }
 
-.bcg {
-	background-image: url("http://orig06.deviantart.net/0fca/f/2015/018/0/8/abstract_black_white_line_creative_creative_backgr_by_b17bawmber-d8eenm8.jpg");
+/*.bcg {
+	background-image: url("http://www.titanui.com/wp-content/uploads/2013/03/25/Simple-Light-Vector-Presentation-Shelf-01.jpg");
 	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
 	
 	
+	
+	
+}*/
+
+li {
+	text-align: center;
 }
 
