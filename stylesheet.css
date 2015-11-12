@@ -7,6 +7,7 @@ li {
 .hsContainer {
 	height: 100vh;
 	background-image: url("assets/c4.jpg");
+	background-size: cover;
 }
 
 .hsContent {
