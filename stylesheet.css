@@ -1,11 +1,4 @@
 
-.bcg {
-	background-image: url("http://www.titanui.com/wp-content/uploads/2013/03/25/Simple-Light-Vector-Presentation-Shelf-01.jpg");
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 100vh;
-}
 
 li {
 	text-align: center;
@@ -13,7 +6,7 @@ li {
 
 .hsContainer {
 	height: 100vh;
-	background-image: url("http://www.dreamtemplate.com/dreamcodes/bg_images/color/c4.jpg");
+	background-image: url("assets/c4.jpg");
 }
 
 .hsContent {
@@ -25,7 +18,7 @@ li {
 
 
 .projects {
-	background-image: url("http://www.titanui.com/wp-content/uploads/2013/03/25/Simple-Light-Vector-Presentation-Shelf-01.jpg");
+	background-image: url("assets/Simple-Light-Vector-Presentation-Shelf-01.jpg");
 	height: 100vh;
 	background-size: contain;
 	vertical-align: middle;
