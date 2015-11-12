@@ -15,9 +15,8 @@
 				data-anchor-target="#slide1 h1"
 			>
 				<div class="header">
-				<h1 style="font-size: 65px">Daniel Oh
-				<small>web development portfolio</small></h1>
-				</div>
+				<h1 style="font-size: 65px">Daniel Oh</h1>
+				<h3>web development portfolio</h3
 			</div>
 		</div>
 		</section>
@@ -37,7 +36,7 @@
 
 			<div class="row">
 				<div class="col-md-2"></div>
-				<div class="col-md-8" id="skills">
+				<div class=" row col-md-8" id="skills">
 					<h1 style="color: white">skills</h1>
 					<div class="col-md-2"></div>
 					<ul class="list-group col-md-4">
@@ -108,10 +107,12 @@
 			<div class="col-md-2"></div>
 			<div class="col-md-8" id="contact">
 				<h1>contact me</h1>
-				<p>doh422@gmail.com</p>
-				<a href="http://linkedin.com/in/danieljoonoh"><p>linkedin.com/in/danieljoonoh</p></a>
-				<a href="http://github.com/doh422>"><p>github.com/doh422</p></a>
-				<p>(818)317-5738</p>
+				<div class="row">
+				<p class="col-md-3">doh422@gmail.com</p>
+				<a class="col-md-3" href="http://linkedin.com/in/danieljoonoh"><p>linkedin.com/in/danieljoonoh</p></a>
+				<a class="col-md-3" href="http://github.com/doh422>"><p>github.com/doh422</p></a>
+				<p class="col-md-3">(818)317-5738</p>
+				</div>
 			</div>
 		</div>
 	
@@ -120,7 +121,9 @@
 
 	<script type="text/javascript" src="skrollr.min.js"></script>
 	<script type="text/javascript">
-		var s = skrollr.init();
+		var s = skrollr.init({
+			forceHeight: false;
+		});
 	</script>
 </body>
 </html>

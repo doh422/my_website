@@ -20,13 +20,14 @@ li {
 .projects {
 	background-image: url("assets/Simple-Light-Vector-Presentation-Shelf-01.jpg");
 	height: 100vh;
-	background-size: contain;
+	background-size: cover;
 	vertical-align: middle;
 }
 
 .contact {
 	background-color: black;
 	color: white;
+	height: 25vh;
 }
 
 .header {
