@@ -4,36 +4,30 @@ li {
 	text-align: center;
 }
 
-.hsContainer {
-	height: 100vh;
-	background-image: url("assets/c4.jpg");
+#pic {
+	background-image: url("assets/LA2.jpg");
 	background-size: cover;
+	height: 60vh;
 }
-
-.hsContent {
-	text-align: center;
-	height: 100vh;
-	top: 50%;
-}
-
 
 
 .projects {
 	background-image: url("assets/Simple-Light-Vector-Presentation-Shelf-01.jpg");
 	height: 100vh;
 	background-size: cover;
-	vertical-align: middle;
 }
 
 .contact {
 	background-color: black;
 	color: white;
 	height: 25vh;
+	font-family: 'Homenaje', sans-serif;
+
 }
 
 .header {
 	height: 100vh;
-	padding-top: 25%;
+
 }
 
 .work {
@@ -50,4 +44,21 @@ li {
 #about {
 	color: white;
 	padding-top: 5%;
+	font-family: 'Homenaje', sans-serif;
+}
+
+#name {
+	width: 60%;
+	text-align: center;
+	font-size: large;
+	font-family: 'Homenaje', sans-serif;
+}
+
+#summary {
+	text-align: center;
+	font-family: 'Homenaje', sans-serif;
+}
+
+.page-header {
+	border-bottom: none;
 }
